@@ -1,0 +1,24 @@
+Job ID: 13075.ursus.ggc.edu
+Working directory is /home/rbryan3/Assignments/Module6
+Running on host hpc4.ggc.edu
+Time is Tue Oct 10 16:38:19 EDT 2017
+Directory is /home/rbryan3/Assignments/Module6
+This job runs on the following processors:
+hpc4 hpc4 hpc4 hpc4 hpc3 hpc3 hpc3 hpc3 hpc2 hpc2 hpc2 hpc2 hpc1 hpc1 hpc1 hpc1
+This job has allocated 16 nodes/processors.
+Proc  5  Sum =  120
+Proc  4  Sum =  120
+Proc  3  Sum =  120
+Proc  6  Sum =  120
+Proc  7  Sum =  120
+Proc  2  Sum =  120
+Proc  8  Sum =  120
+Proc  12  Sum =  120
+Proc  9  Sum =  120
+Proc  13  Sum =  120
+Proc  10  Sum =  120
+Proc  14  Sum =  120
+Proc  11  Sum =  120
+Proc  15  Sum =  120
+Proc  1  Sum =  120
+Proc  0  Sum =  120

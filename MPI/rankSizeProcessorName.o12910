@@ -1,0 +1,52 @@
+Job ID: 12910.ursus.ggc.edu
+Working directory is /home/rbryan3/Assignments/MPI
+Running on host hpc1.ggc.edu
+Time is Tue Oct 3 16:42:02 EDT 2017
+Directory is /home/rbryan3/Assignments/MPI
+This job runs on the following processors:
+hpc1 hpc1 hpc1 hpc1
+This job has allocated 4 nodes/processors.
+CMA: no RDMA devices found
+CMA: no RDMA devices found
+CMA: no RDMA devices found
+CMA: no RDMA devices found
+--------------------------------------------------------------------------
+[[31320,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: hpc1.ggc.edu
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+Hello World, Version 0
+Hello World, Version 0
+Hello World, Version 0
+Hello World, Version 0
+Traceback (most recent call last):
+  File "size.py", line 14, in <module>
+    main()
+  File "size.py", line 10, in main
+    print("Rank = " + rank + ", " + size  + ", " + size + ", Processor Name = " + processor)
+TypeError: must be str, not int
+Traceback (most recent call last):
+  File "size.py", line 14, in <module>
+    main()
+  File "size.py", line 10, in main
+    print("Rank = " + rank + ", " + size  + ", " + size + ", Processor Name = " + processor)
+TypeError: must be str, not int
+Traceback (most recent call last):
+  File "size.py", line 14, in <module>
+    main()
+  File "size.py", line 10, in main
+    print("Rank = " + rank + ", " + size  + ", " + size + ", Processor Name = " + processor)
+TypeError: must be str, not int
+Traceback (most recent call last):
+  File "size.py", line 14, in <module>
+    main()
+  File "size.py", line 10, in main
+    print("Rank = " + rank + ", " + size  + ", " + size + ", Processor Name = " + processor)
+TypeError: must be str, not int
+[hpc1.ggc.edu:27079] 3 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[hpc1.ggc.edu:27079] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages

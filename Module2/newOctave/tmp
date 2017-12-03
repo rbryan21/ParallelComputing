@@ -1,0 +1,23 @@
+PuTTY X11 proxy: unable to connect to forwarded X server: Network error: Connection refused
+octave: unable to open X11 DISPLAY
+octave: disabling GUI features
+PuTTY X11 proxy: unable to connect to forwarded X server: Network error: Connection refused
+warning: print.m: epstool binary is not available.
+Some output formats are not available.
+warning: called from
+    __print_parse_opts__ at line 382 column 9
+    print at line 288 column 8
+    MCPi_0a.m at line 23 column 1
+warning: print.m: fig2dev binary is not available.
+Some output formats are not available.
+warning: print.m: pstoedit binary is not available.
+Some output formats are not available.
+
+gnuplot> nset obj 1;
+         ^
+         line 0: invalid command
+
+PuTTY X11 proxy: unable to connect to forwarded X server: Network error: Connection refused
+
+gnuplot: unable to open display 'localhost:10.0'
+gnuplot: X11 aborted.

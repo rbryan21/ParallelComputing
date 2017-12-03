@@ -1,0 +1,32 @@
+Job ID: 12913.ursus.ggc.edu
+Working directory is /home/rbryan3/Assignments/MPI
+Running on host hpc1.ggc.edu
+Time is Tue Oct 3 16:43:00 EDT 2017
+Directory is /home/rbryan3/Assignments/MPI
+This job runs on the following processors:
+hpc1 hpc1 hpc1 hpc1
+This job has allocated 4 nodes/processors.
+--------------------------------------------------------------------------
+[[31004,1],0]: A high-performance Open MPI point-to-point messaging module
+was unable to find any relevant network interfaces:
+
+Module: OpenFabrics (openib)
+  Host: hpc1.ggc.edu
+
+Another transport will be used instead, although this may result in
+lower performance.
+--------------------------------------------------------------------------
+CMA: no RDMA devices found
+CMA: no RDMA devices found
+CMA: no RDMA devices found
+CMA: no RDMA devices found
+Hello World, Version 0
+Rank = 0, 4, 4, Processor Name = hpc1.ggc.edu
+Hello World, Version 0
+Rank = 1, 4, 4, Processor Name = hpc1.ggc.edu
+Hello World, Version 0
+Rank = 3, 4, 4, Processor Name = hpc1.ggc.edu
+Hello World, Version 0
+Rank = 2, 4, 4, Processor Name = hpc1.ggc.edu
+[hpc1.ggc.edu:27267] 3 more processes have sent help message help-mpi-btl-base.txt / btl:no-nics
+[hpc1.ggc.edu:27267] Set MCA parameter "orte_base_help_aggregate" to 0 to see all help / error messages

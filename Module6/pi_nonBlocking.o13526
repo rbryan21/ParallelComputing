@@ -1,0 +1,32 @@
+Job ID: 13526.ursus.ggc.edu
+Working directory is /home/rbryan3/Assignments/Module6
+Running on host hpc7.ggc.edu
+Time is Thu Oct 19 15:41:52 EDT 2017
+Directory is /home/rbryan3/Assignments/Module6
+This job runs on the following processors:
+hpc7 hpc7 hpc7 hpc7
+This job has allocated 4 nodes/processors.
+X type = <class 'numpy.ndarray'>
+Request out from master  = <mpi4py.MPI.Request object at 0x7fc7c83f7288>
+Request in at node 1 = [array([ 0.33840769,  0.1181964 ,  0.90997193, ...,  0.26452923,
+        0.51919195,  0.39951472]), array([ 0.42919952,  0.3379925 ,  0.01627797, ...,  0.34731536,
+        0.95788423,  0.41713533])]
+Pi <class 'float'>
+Request from child node 1 received!
+X type = <class 'numpy.ndarray'>
+Request out from master  = <mpi4py.MPI.Request object at 0x7fc7c83f72c8>
+Request in at node 2 = [array([ 0.20093802,  0.29448206,  0.42096856, ...,  0.51532662,
+        0.57470206,  0.17094672]), array([ 0.30906006,  0.19684795,  0.61997193, ...,  0.50308843,
+        0.06313575,  0.83035504])]
+Request from child node 2 received!
+Pi <class 'float'>
+X type = <class 'numpy.ndarray'>
+Request out from master  = <mpi4py.MPI.Request object at 0x7fc7c83f7288>
+Request in at node 3 = [array([ 0.49883106,  0.45892585,  0.2021828 , ...,  0.95707537,
+        0.049859  ,  0.00957421]), array([ 0.07337653,  0.51263122,  0.23013648, ...,  0.36919194,
+        0.50896739,  0.55098571])]
+Request from child node 3 received!
+
+Slave Result = [[3.1417359999999999, 0.019345521926879883], [3.1426280000000002, 0.024964094161987305], [3.1418080000000002, 0.030610084533691406]]
+Pi <class 'float'>
+Successfully completed!

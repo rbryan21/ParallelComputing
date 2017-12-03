@@ -1,0 +1,3 @@
+Job id                    Name             User            Time Use S Queue
+------------------------- ---------------- --------------- -------- - -----
+12182.ursus                ...onVectorizedR rbryan3                0 R batch          

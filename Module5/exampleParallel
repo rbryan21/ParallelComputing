@@ -1,0 +1,11 @@
+from joblib import Parallel, delayed
+import multiprocessing
+
+inputs = range(10)
+def processInput(i):
+	return i ** 2
+
+num_cores = 8
+
+results = Parallel(n_jobs=num_cores)(delayed(processInput)(i) for i in inputs)
+print(results)

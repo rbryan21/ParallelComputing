@@ -1,0 +1,11 @@
+Job ID: 12969.ursus.ggc.edu
+Working directory is /home/rbryan3/Assignments/Module6
+Running on host hpc8.ggc.edu
+Time is Thu Oct 5 16:33:42 EDT 2017
+Directory is /home/rbryan3/Assignments/Module6
+This job runs on the following processors:
+hpc8 hpc8 hpc8 hpc8
+This job has allocated 4 nodes/processors.
+Node  1  out of  4  says  Hello World!
+Node  2  out of  4  says  Hello World!
+Node  3  out of  4  says  Hello World!

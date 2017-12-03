@@ -1,0 +1,16 @@
+Job ID: 12921.ursus.ggc.edu
+Working directory is /home/rbryan3/Assignments/MPI
+Running on host hpc8.ggc.edu
+Time is Tue Oct 3 16:47:05 EDT 2017
+Directory is /home/rbryan3/Assignments/MPI
+This job runs on the following processors:
+hpc8 hpc7 hpc3 hpc1
+This job has allocated 4 nodes/processors.
+Hello World, Version 0
+Rank = 3, 4, 4, Processor Name = hpc1.ggc.edu
+Hello World, Version 0
+Rank = 2, 4, 4, Processor Name = hpc3.ggc.edu
+Hello World, Version 0
+Rank = 0, 4, 4, Processor Name = hpc8.ggc.edu
+Hello World, Version 0
+Rank = 1, 4, 4, Processor Name = hpc7.ggc.edu
