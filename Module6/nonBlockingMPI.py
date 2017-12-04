@@ -46,8 +46,8 @@ def main():
 		print("Successfully completed!")
 	else:
 		# response = comm.recv(source=0,tag=11)
-		reqin = comm.irecv(source=0,tag=11)
-		response = reqin.wait()
+		response = comm.recv(source=0,tag=11)
+		# response = reqin.wait()
 		# print("Request received in node " + str(rank))
 		
 		print("Request in at node " + str(rank) + " = " + str(response))
